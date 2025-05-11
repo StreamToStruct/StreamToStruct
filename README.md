@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Java**, **DSA**, and **System Design**  
 - 🛠️ **Projects** under construction 🚧 — stay tuned!  
 - 📫 How to reach me: via [**email**](mailto:haseenasyed0825@example.com) or [**LinkedIn**](https://www.linkedin.com/in/syed-haseena-513440237)  
-- 💻 LeetCode Profile: [**LeetCode**](https://leetcode.com/Haseena)  
+- 💻 LeetCode Profile: [**LeetCode**](https://leetcode.com/u/Haseeena/)  
 - 😄 Pronouns: **she/her**  
 - ⚡ **Fun fact:** I love making data behave — even if it takes a few cups of coffee and a lot of debugging.
 
