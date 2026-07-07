@@ -1,5 +1,4 @@
--👋 Hello World, I’m ----, a Data Engineer.  
-- 👀 I’m interested in **Data Engineering** 
+-👋 Hello World, I’m Haseena, a Data Engineer.  
 - 🎓 I’m a **2024 Computer Science graduate**  
 - 💻 **Skilled in** * Python, SQL, ADF and PySpark**  
 - 📫 How to reach me: via [**email**](mailto:haseenasyed0825@example.com) or [**LinkedIn**](https://www.linkedin.com/in/syed-haseena-513440237)  
